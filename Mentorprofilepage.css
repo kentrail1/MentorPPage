@@ -1,0 +1,98 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald);
+
+div.header{
+  
+  width: 1280px;
+background-color: #000;
+  height: 55px;
+  box-shadow: 10px 10px #888888;
+
+}
+
+div p{
+  
+  color: #C90D0D ;
+  font-family: Oswald;
+  padding-left: 25px;
+  padding-top: 10px;
+  font-size:25px;
+  border-bottom: 1px solid red;
+  padding-bottom: 3px;
+}
+
+div p span{
+  
+  color: #05a9df;
+}
+
+.backgroundimage{
+  
+  height:250px;
+  width:1280px;
+  background-image: url(http://images3.alphacoders.com/237/23765.jpg);
+  z-index: -5;
+}
+P{
+  color: #05a9df;
+  font-family: Oswald;
+}
+p.H1{
+ border-bottom: 1px solid grey;
+  padding-bottom: 3px;
+  width: 500px;
+}
+p.H2{
+  
+  border-bottom: 1px solid grey;
+  padding-bottom: 3px;
+  width: 400px;
+}
+ul{
+  list-style-type: none;
+}
+
+p.H3{
+  
+  border-bottom: 1px solid grey;
+  padding-bottom: 3px;
+  width: 400px;
+  position: absolute;
+  left: 780px;
+  top:330px;
+}
+
+p.H4{
+  
+  border-bottom: 1px solid grey;
+  padding-bottom: 3px;
+  width: 400px;
+  position: absolute;
+  left: 780px;
+  top:630px;
+}
+
+p.H6{
+  
+  border-bottom: 1px solid grey;
+  padding-bottom: 3px;
+  width: 400px;
+  position: absolute;
+  left: 780px;
+  top:930px;
+}
+
+p.H5{
+  
+  border-bottom: 1px solid grey;
+  padding-bottom: 3px;
+  width: 400px;
+  position: absolute;
+  top:6q30px;
+}
+
+img{
+position: absolute;
+top: -40px;
+
+  width: 45%%;
+}
